@@ -11,3 +11,5 @@
 
 # PowerPoint temporary
 ~$*.ppt*
+
+__pycache__
